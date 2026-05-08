@@ -291,17 +291,6 @@ AdGuard Home actua com un **tallafocs a nivell DNS** (capa d'aplicació):
 
 ---
 
-## 11. Vídeo de demostració (Logs i Configuració)
-
-A causa de l'extensió de la pàgina de configuració i per mostrar el dinamisme del registre de consultes, s'ha generat un vídeo que documenta:
-1.  **Navegació pel panell de control**.
-2.  **Consulta en temps real al "Registro de consultas" (Logs)** on es veuen els bloquejos.
-3.  **Scroll complet per la "Configuración DNS"** per mostrar tots els servidors *upstream* i paràmetres de xarxa.
-
-![Vídeo demostratiu](captures/video_demostracio.webp)
-
----
-
 ## Estructura del repositori
 
 ```
