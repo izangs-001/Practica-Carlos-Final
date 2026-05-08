@@ -2,7 +2,7 @@
 
 **Mòdul:** 0378 Seguretat i alta disponibilitat  
 **Centre:** Institut El Calamot  
-**Curs:** 2025-2026  
+**Curs:** 2026  
 **Alumne:** Izan Gómez Solano
 
 ---
